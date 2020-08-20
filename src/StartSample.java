@@ -11,5 +11,7 @@ class StartSample {
 		
 		System.out.println("Hello Git!");
 		
+		client.singup();
+		
 	}
 }

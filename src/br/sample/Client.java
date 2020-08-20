@@ -6,7 +6,7 @@ public class Client {
 	public String lastName;
 	public String email;
 	
-	void singup() {
+	public void singup() {
 		System.out.println("Client - Signup");
 	}
 }
